@@ -51,15 +51,4 @@ npm run dev
 
 Acesse `http://localhost:5173` no navegador.
 
----
 
-## Adicionar novos projetos
-
-1. Crie uma nova pasta na raiz
-2. Inicialize o projeto React
-3. Adicione código e README
-4. Atualize este README
-
----
-
-**Nota:** Este repositório consolida projetos de estudo em React.
