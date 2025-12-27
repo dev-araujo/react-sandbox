@@ -1,54 +1,17 @@
-# React Sandbox
+# React Sandbox ⚛️
 
-Sandbox para estudos e experimentos com React.
+Repositório com estudos e experimentos utilizando **[React](https://react.dev/)** ⚛️
 
-## Projetos
+## Índice
 
-- **pokedex-rxjs:** [/pokedex-rxjs](./pokedex-rxjs)
-- **Tecnologias:** React, RxJS, TypeScript
-- **Descrição:** Pokédex com programação reativa usando RxJS
-
----
-
-- **chuck-norris-jokes:** [/chuck-norris-jokes](./chuck-norris-jokes)
-- **Tecnologias:** React, JavaScript
-- **Descrição:** Gerador de piadas do Chuck Norris via API
+*   [Pokédex RxJS](./pokedex-rxjs)
+*   [Chuck Norris Jokes](./chuck-norris-jokes)
+*   [Restaurant Menu](./restaurant-menu)
 
 ---
 
-- **restaurant-menu:** [/restaurant-menu](./restaurant-menu)
-- **Tecnologias:** React, Vite, JavaScript
-- **Descrição:** Landing page elegante para restaurante
+#### Autor 👷
 
----
+<img src="https://avatars.githubusercontent.com/u/97068163?v=4" width=120 />
 
-## Estrutura
-
-```
-react-sandbox/
-├── README.md
-├── pokedex-rxjs/
-├── chuck-norris-jokes/
-└── restaurant-menu/
-```
-
-## Como usar
-
-### Clonar o repositório
-
-```bash
-git clone https://github.com/dev-araujo/react-sandbox.git
-cd react-sandbox
-```
-
-### Executar um projeto
-
-```bash
-cd pokedex-rxjs
-npm install
-npm run dev
-```
-
-Acesse `http://localhost:5173` no navegador.
-
-
+[Adriano P Araujo](https://www.linkedin.com/in/araujocode/)
